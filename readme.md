@@ -8,6 +8,7 @@ At the moment I'm working though Part 1 which covers prerequisites including:
 - Ch.4: Numerical Computation
 - Ch.5: Machine Learning Basics
 
+I will be primarily using the python/numpy stack for implementation
 
 An online version of the book can be found here:  
 http://www.deeplearningbook.org/
