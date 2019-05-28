@@ -1,7 +1,6 @@
-Whenever possible, I prefer to engage in active/project-based learning rather than directed\
-course-based learning. 
+Whenever possible, I prefer to engage in active and project-based learning rather than directed/course-based learning. 
 
-For that reason I've decided to orient myself in the field of deep learning by working\ through an introductory book aptly name "Deep Learning" (Ian Goodfellow, Yoshua Bengio,\ Aaron Courville) and implementing as much of the math and algorithms as possible.\ 
+For that reason I've decided to orient myself in the field of deep learning by working   through an introductory book aptly name "Deep Learning" (Ian Goodfellow, Yoshua Bengio,   Aaron Courville) and implementing as much of the math and algorithms as possible.  
 
 An online version of the book can be found here:\
 http://www.deeplearningbook.org/
