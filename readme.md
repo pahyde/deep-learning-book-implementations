@@ -1,6 +1,6 @@
-Whenever possible, I prefer active and project-based learning over directed/course-based learning. 
+Whenever possible, I prefer to engage in active and project-based learning over directed/course-based learning. 
 
-In that spirit, I've decided to orient myself in the field of deep learning by working through an introductory book aptly named "Deep Learning" and implementing as much of the math and algorithms found within as possible. The book has plenty of breadth and depth for my experience level so the project will most likely be long-term. 
+In that spirit, I've decided to orient myself in the field of deep learning by reading and working through an introductory book aptly named 'Deep Learning'. The book takes a fairly rigorous bottom up approach in explaing the math/stat of deep learning algorithms but is not concerned with implementation. For that reason, a primary goal is to implement as much of the math and algorithms as possible. The book has plenty of breadth and depth for my experience level so the project will most likely be long-term. 
 
 Currently I'm working though Part 1 which covers prerequisites including:   
 - Ch.2: Linear Algebra
