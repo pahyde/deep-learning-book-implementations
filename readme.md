@@ -1,8 +1,8 @@
-Whenever possible, I prefer to engage in active and project-based learning rather than directed/course-based learning. 
+Whenever possible, I prefer active and project-based learning over directed/course-based learning. 
 
-For that reason I've decided to orient myself in the field of deep learning by working     through an introductory book aptly name "Deep Learning" and implementing as much of the   math and algorithms as possible. The book has more than sufficient breadth and depth for my experience level so the project will most likely be long-term. 
+In that spirit, I've decided to orient myself in the field of deep learning by working through an introductory book aptly name "Deep Learning" and implementing as much of the math and algorithms as possible. The book has more than sufficient breadth and depth for my experience level so the project will most likely be long-term. 
 
-At the moment I'm working though Part 1 which covers prerequisites including:   
+Currently I'm working though Part 1 which covers prerequisites including:   
 - Ch.2: Linear Algebra
 - Ch.3: Probability and Information Theory
 - Ch.4: Numerical Computation
@@ -70,4 +70,4 @@ The Trace Operator\
 The Determinant\
 \
 2.12\
-Application: Prinipal Component\ Analysis\
+Application: Prinipal Component Analysis\
