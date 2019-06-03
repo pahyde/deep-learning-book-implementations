@@ -38,7 +38,7 @@ linear dependence and span\
 linear combination\
 square and singular matrix\
 \
-2.45 (additional material)
+2.45 (additional material)\
 gaussian elimination\
 A = LU factorization\
 \
